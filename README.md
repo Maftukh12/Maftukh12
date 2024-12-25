@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -37,7 +37,11 @@
 </div>
 
 ###
+###
 
+<h2 align="center">My Social Media</h2>
+
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/maftukh-zaki-mubarok-73055b341/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
