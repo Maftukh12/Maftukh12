@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maftukh Zaki Mubarok and I'm a Frontend dev, from Indonesia.</p>
+<p align="left">My name is Maftukh Zaki Mubarok and I'm a Frontend dev and machine learning dev, from Indonesia.</p>
 
 ###
 
