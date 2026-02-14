@@ -6,9 +6,6 @@
 
 ###
 
-<h2 align="left">About me from my porfolio https://my-porfolio-lime-pi.vercel.app/</h2>
-
-###
 
 <h2 align="center">I code with</h2>
 
