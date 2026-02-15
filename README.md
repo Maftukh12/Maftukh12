@@ -46,7 +46,7 @@
   <a href="https://x.com/Maftukh04" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/tukh___/" target="_blank">
+  <a href="https://www.instagram.com/zxshin__/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100014109871700" target="_blank">
