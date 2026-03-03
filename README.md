@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Maftukh Zaki Mubarok and I'm a Frontend dev and machine learning dev, from Indonesia.</p>
-<p>my porfolio https://porfolio-dusky-beta.vercel.app/</p>
+<p>my porfolio https://porfolio-maftukh-beta.vercel.app</p>
 
 ###
 
